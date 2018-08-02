@@ -17,5 +17,4 @@
 5. 然后是get_val...
 6. 最后是get_train...
 
-net360-0.071-0.230 是ava_dice_loss
-net500-0.043-0.163　是ava_dice_loss_bg
+result.xlsx 是使用Dice_loss训练的结果，对应的网络模型是net870-0.083-0.222.pth
